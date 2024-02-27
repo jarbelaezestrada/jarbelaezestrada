@@ -1,6 +1,6 @@
 # jarbelaezestrada
 
-<h1 align="center">Hi 👋, Soy Juliana Arbeláez</h1>
+<h1 align="center">HOla 👋, Soy Juliana Arbeláez</h1>
 <h3 align="center">Soy una persona apasionada por la programación</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarbelaezestrada" alt="jarbelaezestrada" /></a> </p>
